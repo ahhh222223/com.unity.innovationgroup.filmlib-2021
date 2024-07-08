@@ -1,0 +1,20 @@
+{
+    "name": "com.unity.innovation.filmlib",
+    "rootNamespace": "",
+    "references": [
+        "Cinemachine",
+        "Unity.TextMeshPro",
+        "Unity.RenderPipelines.HighDefinition.Runtime",
+        "com.newtonsoft.json",
+        "Unity.Film-TV.Toolbox"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "com.unity.innovationgroup.filmlib",
+  "displayName": "Innovation Group Film Library",
+  "version": "0.1.0-preview",
+  "unity": "2021.3",
+  "description": "Innovation Group Film Library",
+  "dependencies": {
+    "com.unity.cinemachine": "2.8.9",
+    "com.unity.render-pipelines.core": "12.1.14",
+    "com.unity.render-pipelines.high-definition": "12.1.14"
+  }
+}
