@@ -9,5 +9,5 @@ Open the manifest.json for your project and add the following entry to your list
 For example:
 
     "dependencies": {
-        "com.unity.innovationgroup.filmlib": "https://github.com/Unity-Technologies/com.unity.innovationgroup.filmlib.git",
+        "com.unity.innovationgroup.filmlib": "https://github.com/ahhh222223/com.unity.innovationgroup.filmlib-2021.git",
         }

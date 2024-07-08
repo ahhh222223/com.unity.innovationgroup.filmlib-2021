@@ -1,0 +1,26 @@
+{
+    "name": "Needle.AnimationUtils.Editor",
+    "rootNamespace": "Needle",
+    "references": [
+        "GUID:02f771204943f4a40949438e873e3eff"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Needle.AnimationUtils.Harmony.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.timeline",
+            "expression": "1.0.0",
+            "define": "TIMELINE_INSTALLED"
+        }
+    ],
+    "noEngineReferences": false
+}
