@@ -1,12 +1,9 @@
 ﻿using UnityEditor;
 using UnityEngine;
-#if USING_MWU_HDRP
 using System.IO;
 using UnityEngine.Rendering;
 using UnityEngine.Rendering.PostProcessing;
-using UnityEngine.Experimental.Rendering;
-using UnityEngine.Experimental.Rendering.HDPipeline;
-#endif
+using UnityEngine.Rendering.HighDefinition;
 
 public class RenderWindow : EditorWindow
 {
